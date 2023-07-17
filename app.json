@@ -1,0 +1,7 @@
+{
+  "name": "ViamagusChallenge",
+  "displayName": "ViamagusChallenge",
+  "packagerOpts": {
+    "config": "metro.config.js"
+  }
+}
